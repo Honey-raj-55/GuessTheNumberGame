@@ -20,7 +20,7 @@ To run this game on your local machine, follow these steps:
 3. Run the following command to start the game:
 
    ```
-   python guess_the_number.py
+   python GuessTheNumberGame.py
    ```
 
 4. Follow the on-screen instructions to play the game.
